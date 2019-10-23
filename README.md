@@ -10,9 +10,14 @@ Youtube Video:
 [![Youtube Video](https://img.youtube.com/vi/ujwBho8_qQE/0.jpg)](https://youtu.be/ujwBho8_qQE)
 
 
-to download click this <img src = "downloadThingy.png" >
+
+
+to download click this <img src = "downloadThingy.jpg" >
 
 
 
 
+
+
+This is our flowchart
 <img src="actual flowchart.jpg" >
