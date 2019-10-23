@@ -1,6 +1,4 @@
-# Final
-
-Tic Tac Toe!
+# Tic Tac TOE!
 
 
 
