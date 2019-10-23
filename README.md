@@ -5,6 +5,11 @@ The name of the game is Tic Tac Toe,the user is asked if they want to play, if t
   Controls
 ⚫User tuped a number 1-9 for where to put X
 
+Youtube Video: 
+
+[![Youtube Video](https://img.youtube.com/vi/ujwBho8_qQE/0.jpg)](https://youtu.be/ujwBho8_qQE)
+
+
 to download click this <img src = "download pt 1.png" >
 
 
