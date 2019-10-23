@@ -18,6 +18,9 @@ CONTROLS
 -First to get 3 in a row will win
 
 
+
+
+
 HOW TO INSTALL
 Follow these instructions to unpackage and install releases found on our release page.
 
@@ -32,6 +35,9 @@ Now navigate to the unpackaged files.
 Again if you have a different release version, replace the "0.1" with the correct version.
 
 You have downloaded Tic Tac Toe!
+
+
+
 
 
 FLOWCHART
