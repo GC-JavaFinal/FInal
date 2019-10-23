@@ -22,19 +22,19 @@ CONTROLS
 
 
 HOW TO INSTALL
-Follow these instructions to unpackage and install releases found on our release page.
+- Follow these instructions to unpackage and install releases found on our release page.
 
-Navigate to your download location. Typically in your downloads folder.
+- Navigate to your download location. Typically in your downloads folder.
 
-Now open the jar file.
+- Now open the jar file.
 
-If you have a different release version, replace the "0.1" with the correct version.
+- If you have a different release version, replace the "0.1" with the correct version.
 
-Now navigate to the unpackaged files.
+- Now navigate to the unpackaged files.
 
-Again if you have a different release version, replace the "0.1" with the correct version.
+- Again if you have a different release version, replace the "0.1" with the correct version.
 
-You have downloaded Tic Tac Toe!
+- You have downloaded Tic Tac Toe!
 
 
 
