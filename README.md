@@ -1,4 +1,4 @@
-# Tic Tac TOE!
+# Tic Tac Toe
 
 
 
