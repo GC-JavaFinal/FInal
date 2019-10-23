@@ -12,7 +12,8 @@ Youtube Video:
 
 
 
-to download click this <img src = "downloadThingy.jpg" >
+to download click this 
+<img src = "downloadThing.jpg" >
 
 
 
