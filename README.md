@@ -1,6 +1,6 @@
 # Tic Tac Toe!
 
-
+<img src="actual flowchart.jpg" >
 
 
 
@@ -42,9 +42,6 @@ HOW TO INSTALL
 
 
 
-FLOWCHART
-
-<img src="actual flowchart.jpg" >
 
 
 
