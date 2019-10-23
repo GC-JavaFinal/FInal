@@ -12,15 +12,30 @@ Youtube Video:
 
 
 
-to download click this 
-<img src="downloadThing.jpg" >
+CONTROLS
+-Enter where you want to put X and it will enter
+-computer will randomly select a spot to put O
+-First to get 3 in a row will win
 
 
+HOW TO INSTALL
+Follow these instructions to unpackage and install releases found on our release page.
+
+Navigate to your download location. Typically in your downloads folder.
+
+Now open the jar file.
+
+If you have a different release version, replace the "0.1" with the correct version.
+
+Now navigate to the unpackaged files.
+
+Again if you have a different release version, replace the "0.1" with the correct version.
+
+You have downloaded Tic Tac Toe!
 
 
+FLOWCHART
 
-
-This is our flowchart
 <img src="actual flowchart.jpg" >
 
 
