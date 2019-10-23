@@ -49,8 +49,8 @@ FLOWCHART
 
 
 Authors
--Gage
--Chayton
+- Gage
+- Chayton
 
 
 License
