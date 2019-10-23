@@ -13,9 +13,9 @@ Youtube Video:
 
 
 CONTROLS
--Enter where you want to put X and it will enter
--computer will randomly select a spot to put O
--First to get 3 in a row will win
+- Enter where you want to put X and it will enter
+- computer will randomly select a spot to put O
+- First to get 3 in a row will win
 
 
 
